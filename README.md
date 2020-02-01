@@ -4,3 +4,5 @@ Simple interface that lets the user select the movie he wants to watch, select h
 All data is saved to local storage so that it will persist after reloading the website.
 
 No library was used on this project. Only pure HTML, CSS and Javascript.
+
+[Live Demo](https://euobrunocosta.github.io/movie-seat-booking/)
